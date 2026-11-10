@@ -285,3 +285,9 @@ a:hover {
 #site-footer a {
   color: #fff;
 }
+#site-footer .wrapper {
+  max-width: none;     
+  margin: 0;          
+  padding-left: 24px; 
+  text-align: left;    
+}
